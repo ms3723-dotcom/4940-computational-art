@@ -1,0 +1,5 @@
+{
+  "name": "Computational Portrait",
+  "description": "An analytical tool that measures the 'human signal' in writing by breaking down repetition, rhythm, and self-correction markers.",
+  "requestFramePermissions": []
+}
